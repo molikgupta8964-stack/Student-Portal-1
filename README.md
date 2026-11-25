@@ -1,80 +1,91 @@
-# 🚀 NovaBuddy – Your Intelligent Personalized Learning Companion
+# Arya College Examination Portal
 
-**Making Learning Smarter with AI**
+A responsive and user-friendly web-based Examination Portal developed for **Arya College of Engineering & I.T., Jaipur**. The platform provides students with a centralized interface to access examination notices, semester results, revaluation updates, and important academic resources.
 
-NovaBuddy is an AI-powered personalized learning companion designed to make learning more interactive, accessible, and efficient. Powered by Google Gemini, it provides an intelligent conversational experience that helps learners access information, understand concepts, and receive personalized learning assistance.
+## 🚀 Features
 
-🌐 **Live Demo:** https://novabuddy.lovable.app/
+- **College Homepage:** Dedicated Examination Cell homepage with college branding.
+- **Student Login:** Login interface for accessing student services.
+- **Latest Notices:** Displays important examination announcements and updates.
+- **Results Section:** Provides semester result announcements and result access.
+- **Revaluation Updates:** Information about revaluation applications and answer book access.
+- **Quick Links:** Easy navigation to exam schedules, syllabus, and FAQs.
+- **Responsive Design:** User-friendly layout for different screen sizes.
+- **Interactive UI:** Smooth navigation, animations, and scroll-to-top functionality.
 
-## ✨ Project Overview
-
-Learning often involves switching between multiple applications to find information, understand concepts, and organize study activities.
-
-NovaBuddy aims to simplify this experience by bringing intelligent AI assistance into a unified learning interface.
-
-## 🎯 Key Objectives
-
-- Make learning more personalized and accessible.
-- Provide AI-powered conversational assistance.
-- Simplify access to learning-related information.
-- Improve learning efficiency through contextual assistance.
-- Create a unified environment for learners.
-
-## ⭐ Core Capabilities
-
-- **AI-Powered Assistance:** Intelligent support using Google Gemini.
-- **Personalized Learning:** Learning assistance tailored to user context.
-- **Conversational Interface:** Interact with AI through natural language.
-- **Information Support:** Access relevant information and learning guidance.
-- **Interactive Experience:** A unified interface designed to simplify learning.
-
-## 🧠 AI Integration
-
-NovaBuddy uses **Google Gemini** to power its AI capabilities and conversational intelligence.
-
-The integration is intended to support contextual understanding and more relevant responses to user queries.
-
-## 🛠️ Technology Stack
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |---|---|
-| Google Gemini | AI and conversational intelligence |
-| Lovable | Application development platform |
-| Web Technologies | User interface and application experience |
+| HTML5 | Website structure |
+| CSS3 | Styling and layout |
+| JavaScript | Interactive functionality |
+| Bootstrap 5.3 | Responsive design |
+| Font Awesome | Icons |
+| Google Fonts | Typography |
 
-*Note: Add the exact frontend framework, backend, database, and APIs after verifying the actual implementation.*
+## 📂 Project Structure
 
-## 🌐 Live Application
+```text
+Examination-Portal/
+│
+├── index.html
+├── login.html
+│
+└── assets/
+    ├── css/
+    │   └── style.css
+    │
+    ├── js/
+    │   └── script.js
+    │
+    └── images/
+        ├── logo.png
+        └── header-banner.png
+```
 
-Experience NovaBuddy here:
+## 💻 Getting Started
 
-https://novabuddy.lovable.app/
+### 1. Clone the Repository
 
-## 🚀 Future Enhancements
+```bash
+git clone https://github.com/molikgupta8964-stack/Examination-Portal.git
+```
 
-- Advanced personalized learning recommendations.
-- Learning progress tracking.
-- Improved contextual memory.
-- Additional AI-powered learning tools.
-- Enhanced learning analytics.
-- Integration with more educational resources.
+### 2. Open Project Folder
 
-## 💡 Vision
+```bash
+cd Examination-Portal
+```
 
-To make AI-powered learning more accessible by creating an intelligent companion that understands learners' needs and supports their learning journey.
+### 3. Run the Project
 
-## 👨‍💻 Project Information
+Open `index.html` in your web browser.
 
-**Project Name:** NovaBuddy  
-**Category:** Artificial Intelligence / EdTech  
-**AI Model:** Google Gemini  
-**Platform:** Web Application  
-**Developer:** Molik Gupta
+You can also use the **Live Server** extension in VS Code for local development.
+
+## 🎯 Project Objectives
+
+- Provide a centralized platform for examination-related information.
+- Make examination notices and results easily accessible.
+- Simplify navigation to important academic resources.
+- Improve the digital accessibility of examination services.
+
+## 🔮 Future Enhancements
+
+- Student authentication and secure login.
+- Database integration for student records.
+- Dynamic result generation and marksheet downloads.
+- Online revaluation application system.
+- Admin dashboard for managing notices and results.
+
+## 👨‍💻 Developed By
+
+**Molik Gupta**
+
+B.Tech – Computer Science & Engineering  
+Arya College of Engineering & I.T., Jaipur
 
 ## 📄 License
 
-This project is developed for learning, experimentation, and educational innovation.
-
----
-
-**NovaBuddy – Learn Smarter. Grow Faster.**
+This project is developed for educational and academic purposes.
